@@ -16,6 +16,9 @@ h3 {
 a {
     color: rgb(196, 211, 130);
 }
+span {
+    font-size: smaller;
+}
 button {
     background-color: transparent;
     background-repeat: no-repeat;
