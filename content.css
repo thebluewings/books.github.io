@@ -13,11 +13,17 @@ h2 {
 h3 {
     color: rgb(185, 185, 185);
 }
+h4 {
+    color: rgb(185, 185, 185);
+}
 a {
     color: rgb(196, 211, 130);
 }
 span {
     font-size: smaller;
+}
+p {
+    color: rgb(185, 185, 185);
 }
 button {
     background-color: transparent;
